@@ -1,0 +1,26 @@
+/* Centrar elementos dentro de un contenedor */
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Alinear elementos horizontalmente */
+  .justify-content-between {
+    justify-content: space-between;
+  }
+  
+  /* Establecer márgenes */
+  .mb-1 {
+    margin-bottom: 1rem;
+  }
+  
+  /* Establecer padding */
+  .p-2 {
+    padding: 2rem;
+  }
+  
+  /* Alinear texto */
+  .text-center {
+    text-align: center;
+  }
